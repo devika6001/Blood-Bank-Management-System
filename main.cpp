@@ -1094,8 +1094,8 @@ void exitprogram()
            cout << "\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”;
 cout<<”~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”;
 cout<<”~~~~~~~~\n";
-           cout << "~ THANK YOU! :)\n\n~ Developed By-\n\tAnanya  :) \n\tDevika “;
-cout<<”Gupta :) \n\tDrishika Chauhan :)  \n";
+           cout << "~ THANK YOU! :)\n\n~ Developed By-\n\tDevika “;
+cout<<”Gupta :)\n";
            cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”;
 cout<<”~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~”;
 cout<<”~~~~~~~\n";
